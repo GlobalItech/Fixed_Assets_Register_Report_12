@@ -1,8 +1,7 @@
 {
     'name': 'Fixed Assets Register Report',
     'category': 'Assets',
-    'license': "AGPL-3",
-    'version': '1.2.1',
+    'version': '12.0.1.0',
     'summary': "Give The assets report in excel",
     'author': 'Itech Resources',
     'website': 'http://www.itechresources.net',
